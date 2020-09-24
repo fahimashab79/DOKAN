@@ -20,8 +20,8 @@ samples, guidance on mobile development, and a full API reference.
   <img src="/Images/3.png" width="170">
   </p>
   <p align="center">
-  <img src="/Iamges/4.png" width="170">
-  <img src="/Iamges/5.png" width="170">
+  <img src="/Images/4.png" width="170">
+  <img src="/Images/5.png" width="170">
   <img src="/Images/6.png" width="170">
     </p>
   <p align="center">
